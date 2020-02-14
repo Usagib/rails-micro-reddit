@@ -23,8 +23,6 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-  * [Installation](#installation)
-* [Usage](#usage)
 * [Contact](#contact)
 
 
@@ -32,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Amicro-reddit database integration
+A reddit alike database integration
 
 Features
 * Can create a user with presence validators
